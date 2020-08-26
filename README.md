@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hello, my name is Martin and I'm 18 years old.
+I like playing video games and football.
